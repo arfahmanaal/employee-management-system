@@ -4,6 +4,7 @@ obj/
 *.suo
 .vs/
 *.csproj.user
+appsettings.json
 appsettings.Development.json
 logs/
 *.log
