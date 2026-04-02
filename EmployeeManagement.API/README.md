@@ -240,5 +240,5 @@ Update appsettings.json:
 ### Delete Employee
 ![delete Employee](screenshots/delete.png)
 
-### Dtabase Table
+### Database Table
 ![DB Table](screenshots/db-table.png)
